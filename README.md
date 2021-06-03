@@ -8,19 +8,25 @@
 
 [![](https://img.shields.io/badge/Gmail-zeapherinegmail.com-red)](mailto:zeapherine@gmail.com)
 
+<h3> 👨🏻•💻 About Me </h3>
+
+
 I'm from India, and I do web development. I really enjoy learning languages and frameworks like React and Express. I am still in my process of becoming an expert in web technologies. Aside from my love for technologies I also love nature and like to travel and immerse my self in different cultures.
-
-<br/><br/>
-
-## Skills
-
-
-
-Skills: REACT / JS / HTML / CSS / REDUX / NODE-EXPRESS JS / MONGODB
 
 - 🔭 I’m currently working on my own personal projects 
 - 🌱 I’m currently learning Phyton 
 - 💬 Ask me about MERN stack, Linux or any tech stuffs 
+
+<br/><br/>
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; REACTJS 
+
+
+ 
+
+
 
 <br/><br/>
 
