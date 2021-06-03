@@ -4,5 +4,8 @@ I'm Zeapherine from India, and I do web development. I really enjoy learning lan
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeapherine)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeapherine&show_icons=true&theme=dracula)
+
+
 
 
