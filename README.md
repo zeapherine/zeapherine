@@ -1,6 +1,6 @@
 ### Hi there 👋, Zeapherine Islary
 #### Full-Stack MERN Developer
-![Full-Stack MERN Developer](https://klaxos.com/wp-content/uploads/2017/12/Technology-Coder.jpg)
+![Full-Stack MERN Developer](https://www.instagram.com/p/B50dteTjLDt/)
 
 I'm Zeapherine from India, and I do web development. I really enjoy learning languages and frameworks like React and Express. I am still in my process of becoming an expert in web technologies.
 
