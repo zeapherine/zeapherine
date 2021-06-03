@@ -1,6 +1,6 @@
 ### Hi there 👋, Zeapherine Islary
 #### Full-Stack MERN Developer
-![Full-Stack MERN Developer](https://github.com/zeapherine/zeapherine/blob/main/GNFR2287.JPG)
+![Full-Stack MERN Developer](https://pbs.twimg.com/profile_images/1264572949228642309/yYWVg27M_400x400.jpg)
 
 I'm Zeapherine from India, and I do web development. I really enjoy learning languages and frameworks like React and Express. I am still in my process of becoming an expert in web technologies. Aside from my love for technologies I also love nature and like to travel and immerse my self in different cultures.
 
