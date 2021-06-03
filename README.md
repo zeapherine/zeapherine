@@ -1,4 +1,4 @@
-![Full-Stack MERN Developer](https://github.com/zeapherine/zeapherine/blob/main/zeapherine.jpeg)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### Hi there 👋, 
 # I'm Zeapherine Islary
