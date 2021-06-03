@@ -30,11 +30,9 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 
 <br/><br/>
 
-![Zeapherine's github stats](https://github-readme-stats.vercel.app/api?username=zeapherine6&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Zeapherine's github stats](https://github-readme-stats.vercel.app/api?username=zeapherine&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeapherine&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
