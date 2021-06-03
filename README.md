@@ -21,7 +21,8 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; REACT | REDUX | HTML | CSS | JAVASCRIPT | NODEJS | EXPRESS | MONGODB | MATERIAL UI | BOOTSTRAP
+- 💻 <h4> FRONT-END </h4> : REACT | REDUX | HTML | CSS | JAVASCRIPT  | MATERIAL UI | BOOTSTRAP
+- 💻 <h4> BACK-END </h4> : NODEJS | EXPRESS | MONGODB 
 
 
  
