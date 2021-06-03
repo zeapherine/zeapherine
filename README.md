@@ -17,6 +17,8 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 - 🌱 I’m currently learning Phyton 
 - 💬 Ask me about MERN stack, Linux or any tech stuffs 
 
+---
+
 <br/><br/>
 
 <h3>🛠 Tech Stack</h3>
@@ -24,15 +26,17 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 -  ### FRONT-END  : REACT | REDUX | HTML | CSS | JAVASCRIPT  | MATERIAL UI | BOOTSTRAP 
 -  ### BACK-END : NODEJS | EXPRESS | MONGODB 
 
+---
+
 <br/><br/>
 
 ![Zeapherine's github stats](https://github-readme-stats.vercel.app/api?username=zeapherine&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeapherine&theme=radical)<img src="https://github.com/zeapherine/zeapherine/blob/main/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 <br/><br/>
+
+---
 
 <h3> 🤝🏻 Connect with Me </h3>
 
