@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/Gmail-zeapherinegmail.com-red)](mailto:zeapherine@gmail.com)
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻 • 💻 About Me </h3>
 
 
 I'm from India, and I do web development. I really enjoy learning languages and frameworks like React and Express. I am still in my process of becoming an expert in web technologies. Aside from my love for technologies I also love nature and like to travel and immerse my self in different cultures.
