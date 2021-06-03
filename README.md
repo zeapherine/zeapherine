@@ -24,11 +24,6 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 -  ### FRONT-END  : REACT | REDUX | HTML | CSS | JAVASCRIPT  | MATERIAL UI | BOOTSTRAP 
 -  ### BACK-END : NODEJS | EXPRESS | MONGODB 
 
-
- 
-
-
-
 <br/><br/>
 
 ![Zeapherine's github stats](https://github-readme-stats.vercel.app/api?username=zeapherine&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
@@ -36,8 +31,6 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeapherine&theme=radical)<img src="https://github.com/zeapherine/zeapherine/blob/main/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
-
-<br><br>
 
 <br/><br/>
 
