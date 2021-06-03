@@ -1,11 +1,8 @@
-### Hi there, I am Zeapherine Islary. 👋
+### Hi there! 👋
+
+I'm Zeapherine from India, and I do web development. I really enjoy learning languages and frameworks like React and Express. I am still in my process of becoming an expert in web technologies. You can contact me  on my Linkedin at https://www.linkedin.com/in/zeapherine-islary-a8055a174/.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeapherine)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on React App.
-- 🌱 I’m currently learning Node JS & express.js.
-- 👯 I’m looking to collaborate on industy projects for experience.
-- 💬 Ask me about MERN stack, linux or any tech related stuffs.
-- 📫 How to reach me: twitter: @zeapherine
 
