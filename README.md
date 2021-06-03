@@ -4,6 +4,8 @@
 # I'm Zeapherine Islary
 #### Full-Stack MERN Developer
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 [![](https://img.shields.io/badge/Gmail-zeapherinegmail.com-red)](mailto:zeapherine@gmail.com)
 
 <h3> 👨🏻•💻 About Me </h3>
