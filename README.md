@@ -34,7 +34,7 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeapherine&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeapherine&theme=radical)<img src="https://github.com/zeapherine/zeapherine/blob/main/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 <br><br>
 
