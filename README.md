@@ -1,5 +1,7 @@
 <img align='right' src="https://github.com/zeapherine/zeapherine/blob/main/wfh.gif" width="230">
 
+
+
 ### Hi there 👋, 
 # I'm Zeapherine Islary
 #### Full-Stack MERN Developer
@@ -14,7 +16,8 @@
 I'm from India, and I do web development. I really enjoy learning languages and frameworks like React and Express. I am still in my process of becoming an expert in web technologies. Aside from my love for technologies I also love nature and like to travel and immerse my self in different cultures.
 
 - 🔭 I’m currently working on my own personal projects 
-- 🌱 I’m currently learning NextJs 
+- 🌱 I’m currently learning NextJs and <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>&nbsp;
+- - 📫 How to reach me: [discord](https://discords.com/bio/p/zeapherine) or [social](#social)
 - 💬 Ask me about MERN stack, Linux or any tech stuffs 
 
 ---
@@ -32,7 +35,7 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 
 ---
 
-### 🤝🏻 Connect with Me 
+<h3 id="social">🤝🏻 Connect with Me</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zeapherine)  &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zeapherine-islary-a8055a174/) &nbsp;
