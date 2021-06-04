@@ -44,6 +44,7 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 ---
 
 <br> <br/>
-### 👇 👇 👇 Check out some of my projects that i have build down below or navigate to repositories to see more 👇 👇 👇 
+### 👇 👇 👇 Check out some of my projects that i have build down below or navigate to repositories to see more, 👇 👇 👇 
+#### ⭐⭐⭐⭐⭐ and don't forget to give a star 😜😜😜!!.. ⭐⭐⭐⭐⭐
 
 ---
