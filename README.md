@@ -16,7 +16,7 @@
 I'm from India, and I do web development. I really enjoy learning languages and frameworks like React and Express. I am still in my process of becoming an expert in web technologies. Aside from my love for technologies I also love nature and like to travel and immerse my self in different cultures.
 
 - 🔭 I’m currently working on my own personal projects 
-- 🌱 I’m currently learning NextJs and <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>&nbsp;
+- 🌱 I’m currently learning Data Science &nbsp;
 - - 📫 How to reach me: [discord](https://discords.com/bio/p/zeapherine) or [social](#social)
 - 💬 Ask me about MERN stack, Linux or any tech stuffs 
 
