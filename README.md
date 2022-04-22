@@ -4,7 +4,8 @@
 
 ### Hi there 👋, 
 # I'm Zeapherine Islary
-#### Full-Stack MERN Developer
+#### Full-Stack Developer
+#### | Javascript | Solidity |
 
 ![](https://komarev.com/ghpvc/?username=zeapherine&color=blue)
 
@@ -26,6 +27,7 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 
 -  #### FRONT-END  : REACT | REDUX | HTML | CSS | JAVASCRIPT  | MATERIAL UI | BOOTSTRAP | FRAMER-MOTION
 -  #### BACK-END : NODEJS | EXPRESS | MONGODB 
+-  #### BLOCKCHAIN: SOLIDTY | ETHERJS | MORALIS | HARDHAT
 
 ---
 
@@ -40,7 +42,7 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zeapherine)  &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zeapherine-islary-a8055a174/) &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zeapherine.islary1)  &nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zeapherine_/) &nbsp;
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zeapherine)  &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12776875/zeapherine-islary)  &nbsp;
 
