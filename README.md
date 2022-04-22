@@ -25,7 +25,7 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 
 <h3>🛠 Tech Stack</h3>
 
--  #### FRONT-END  : REACT | REDUX | HTML | CSS | JAVASCRIPT  | MATERIAL UI | BOOTSTRAP | FRAMER-MOTION
+-  #### FRONT-END  : REACT | REDUX | HTML | CSS | JAVASCRIPT  | TAILWIND | REST | GRAPHQL
 -  #### BACK-END : NODEJS | EXPRESS | MONGODB 
 -  #### BLOCKCHAIN: SOLIDTY | ETHERJS | MORALIS | HARDHAT
 
