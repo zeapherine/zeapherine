@@ -5,7 +5,7 @@
 ### Hi there 👋, 
 # I'm Zeapherine Islary
 #### Full-Stack Developer
-#### | Javascript | Solidity |
+#### | Javascript | Solidity | Cairo
 
 ![](https://komarev.com/ghpvc/?username=zeapherine&color=blue)
 
