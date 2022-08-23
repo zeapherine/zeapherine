@@ -14,7 +14,7 @@
 <h3> 👨🏻 • 💻 About Me </h3>
 
 
-I'm from India, and I do web development. I really enjoy learning languages and frameworks like React and Express. I am still in my process of becoming an expert in web technologies. Aside from my love for technologies I also love nature and like to travel and immerse my self in different cultures.
+I'm from India, and I am a Blockchain Developer. I really enjoy learning languages and frameworks like React and Express. I am still in my process of becoming an expert in web3 technologies. Aside from my love for technologies I also love nature and like to travel and immerse my self in different cultures.
 
 - 🔭 I’m currently working on my own personal projects 
 - 🌱 I’m currently learning web3 beacause I believe, everything IoT to metaVerse will need to use it for a secure internet &nbsp;
@@ -27,7 +27,7 @@ I'm from India, and I do web development. I really enjoy learning languages and 
 
 -  #### FRONT-END  : REACT | REDUX | HTML | CSS | JAVASCRIPT  | TAILWIND | REST | GRAPHQL
 -  #### BACK-END : NODEJS | EXPRESS | MONGODB 
--  #### BLOCKCHAIN: SOLIDTY | ETHERJS | MORALIS | HARDHAT
+-  #### BLOCKCHAIN: SOLIDTY | ETHERJS | MORALIS | HARDHAT | STARKNET | CAIRO
 
 ---
 
