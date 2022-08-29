@@ -17,7 +17,7 @@
 I'm from India, and I am a Blockchain Developer. I really enjoy learning languages and frameworks like React and Express. I am still in my process of becoming an expert in web3 technologies. Aside from my love for technologies I also love nature and like to travel and immerse my self in different cultures.
 
 - 🔭 I’m currently learning ZK rollups -- StarkNet | Cairo.
-- 🌱 I’m build in web3 beacause I believe, everything IoT to metaVerse will need to use it for a secure internet &nbsp;
+- 🌱 I’m building in web3 beacause I believe, everything IoT to metaVerse will need to use it for a secure internet &nbsp;
 - - 📫 How to reach me: [discord](https://discords.com/bio/p/zeapherine) or [social](#social)
 - 💬 Ask me about the Blockchain world or any tech stuffs 
 
