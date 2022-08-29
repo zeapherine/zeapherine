@@ -27,7 +27,7 @@ I'm from India, and I am a Blockchain Developer. I really enjoy learning languag
 
 -  #### FRONT-END  : REACT | REDUX | HTML | CSS | JAVASCRIPT  | TAILWIND | REST | GRAPHQL
 -  #### BACK-END : NODEJS | EXPRESS | MONGODB 
--  #### BLOCKCHAIN: SOLIDTY | ETHERJS | MORALIS | HARDHAT | STARKNET | CAIRO
+-  #### BLOCKCHAIN: SOLIDTY | ETHERJS | MORALIS | HARDHAT | STARKNET | CAIRO | PROTOSTAR 
 
 ---
 
